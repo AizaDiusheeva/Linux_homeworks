@@ -1,0 +1,72 @@
+   0 whoami
+   1 ls
+   2 pwd
+   3 cd /home
+   4 mkdir /home/animals
+   5 pwd
+   6 ls
+   7 mkdir /home/animals/dogs
+   8 mkdir /home/animals/cats
+   9 mkdir /home/animals/fish
+  10 ls
+  11 cd /dogs
+  12 cd /home/animals/dogs
+  13 ls
+  14 touch /pluto
+  15 pwd
+  16 mkdir /pluto
+  17  touch file1.txt
+  18 cd /file1.txt
+  19 ls -1
+  20 cd /cats
+  21 ls
+  22 cd /home/animals/cats
+  23 touch nemo.txt
+  24 ls
+  25 pwd
+  26 cd /home/animals/fish
+  27 touch garfild.txt
+  28 ls
+  29 rwd
+  30 pwd
+  31 cd /home
+  32 mkdir /planets
+  33 ls
+  34 pwd
+  35 ls-1
+  36 ls -1
+  37 cd /planets
+  38 cd /opt
+  39 touch Mercury.txt
+  40 ls
+  41 touch Venus.txt
+  42 ls
+  43 touch Mars.txt
+  44 ls
+  45 touch Jupiter.txt
+  46 ls
+  47 ls -1
+  48 pwd
+  49 mv /Mercury.txt/planets
+  50 mv Mercury.txt/home/planets
+  51 ls
+  52 cd /tmp
+  53 touch Adam.txt
+  54 ls
+  55 pwd
+  56 touch evA.txt
+  57 ls
+  58 cd /home
+  59 mkdir /humans
+  60 ls
+  61 ls-1
+  62 ls -l
+  63 cd /tmp
+  64 touch /adam.txt
+  65 ls
+  66 history
+  67 export_file /tmp/history.txt
+  68 tree /home
+  69 tree /tmp
+  70 tree /opt
+  71 history > history.txt
