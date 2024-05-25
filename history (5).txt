@@ -1,0 +1,16 @@
+   0 ./myfistbashscript.sh
+   1 nano myfistbashscript.sh
+   2 myfistscript.sh
+   3 cd
+   4 pwd
+   5 history
+   6 echo $AIZA
+   7 echo Hello Aiza
+   8 date
+   9 ps ef 
+  10 ps ef
+  11 ps -ef| wc -l
+  12 history
+  13 tree
+  14 export_file.txt
+  15 history > /tmp/history.txt
